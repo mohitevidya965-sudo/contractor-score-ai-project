@@ -1,0 +1,2 @@
+# Contractor-Score AI Framework
+Smart public procurement & tender risk predictor designed for B2G hackathons[cite: 1]. Eliminates L1 blind spots by evaluating historical reliability, budget variance, and active workload capacity.
