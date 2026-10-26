@@ -1,4 +1,7 @@
+### 🌐 Live Demo
+Try the live application here: [Contractor-Score AI Framework Live App](https://contractor-score-ai-project-h39plwdefyqdonwifqqi8j.streamlit.app)
 
+---
 # 🏗️ Contractor-Score AI Framework
 
 > **Smart Public Procurement & Risk Predictor** — Eliminating municipal infrastructure blind spots by evaluating historical reliability, delay metrics, and budget cost overruns.
